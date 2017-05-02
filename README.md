@@ -10,6 +10,7 @@
          ```
 > vue + iview + jQuery + 豆瓣apiv2
 
+[预览首页-点击一下](https://bluehezi.github.io/page-doubanapi-movie)
 > 预览:
 ![1](./pic1.jpg)
 ![2](./pic2.jpg)

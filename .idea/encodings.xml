@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/config/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dist/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dist/static/css/app.48a28ac05f6ff07da8196d47e436df58.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/App.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/components/Cards/Cards.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/components/MovieLists/MovieLists.vue" charset="UTF-8" />
